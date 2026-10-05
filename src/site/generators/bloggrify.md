@@ -9,7 +9,6 @@ license:
 templates:
   - Vue
   - Markdown
-  - MDC
 description: A Nuxt Content starter specialized for blogging
 startertemplaterepo: https://github.com/bloggrify/bloggrify
 ---
